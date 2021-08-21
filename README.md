@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaharbawa35
 - 👀 I’m interested in Data Analytics and Machine learning 
-- 🌱 I’m currently learning how to share my codes in GitHub 
+- 🌱 I’m currently a freelancer working with many comapnies in tech, finance and health care
 - 💞️ I’m looking to collaborate on any project related data analytics 
 - 📫 Reach me out on contact@bawaworld.com
 
